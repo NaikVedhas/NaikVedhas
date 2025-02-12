@@ -1,6 +1,6 @@
 ### Hey there, I'm Vedhas Naik! 👋🚀  
 
-![Cool Programmer Image](https://source.unsplash.com/featured/?coding,technology)  
+![Cool Programmer Image](https://i.pinimg.com/736x/17/f0/22/17f022aa9c15c3299ea1804226a8478c.jpg)  
 
 💻 **Full-Stack Developer | Blockchain Enthusiast | Speaker** 🎤  
 🔹 MERN Stack | Blockchain | Data Structures & Algorithms  
@@ -23,21 +23,7 @@
 💡 Took a **speaker session** with the co-founder of *Blockchained India* under the series **All Roads Lead to Bitcoin**  
 📢 Passionate about **mentoring** and sharing knowledge in blockchain & software dev  
 
----
-
-### 🚀 My Tech Stack  
-
-**Frontend:** React, Tailwind CSS, Next.js  
-**Backend:** Node.js, Express.js, MongoDB, Socket.io  
-**Blockchain:** Solidity, Wagmi, Web3.js, IPFS  
-**Other:** Git, JWT, Cloud Deployment  
-
----
-
-### 🎮 Fun Facts & More  
-🕹️ Love building **gamified experiences** & solving real-world problems  
-💬 Always open to discussions about **tech, startups & Web3**  
-⚡ Looking for **internship opportunities** in **SDE & Blockchain**!  
+![Speaker Session Image](https://drive.google.com/uc?export=view&id=1-0DaAlIYHeEDl4_HrxMdALNrXjWx2-c1)
 
 ---
 
