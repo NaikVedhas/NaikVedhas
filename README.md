@@ -2,47 +2,56 @@
   <div align="left">
     
 # 👋 Hey, I'm Vedhas Naik!
-
 ### 🚀 Full-Stack Developer | Blockchain Enthusiast | Speaker
 - 🔹 MERN Stack | Blockchain | Data Structures & Algorithms
 - 🔹 Love building scalable products & mentoring developers
 
-<div style="display: flex;">
-  <div width="60%">
-    <!-- Tech Stack -->
-    <p align="left"> 
-    ![React](https://simpleicons.org/icons/react.svg)  
-    <p/>
-      
-  <div width="40%" align="right">
-    <img align="right" src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" alt="coding" width="300"/>
-  </div>
-</div>
+<!-- Tech Stack in Multiple Rows -->
+<p align="left">
+  <!-- Row 1 - Frontend & Main Technologies -->
+  <img src="https://simpleicons.org/icons/react.svg" alt="react" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="tailwind" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/reactquery.svg" alt="reactquery" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/express.svg" alt="express" width="45" height="45" style="margin-right: 10px"/>
+</p>
+
+<p align="left">
+  <!-- Row 2 - Blockchain & Web3 -->
+  <img src="https://simpleicons.org/icons/solidity.svg" alt="solidity" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/ethers.svg" alt="ethers" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/web3dotjs.svg" alt="web3" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/ipfs.svg" alt="ipfs" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://expolab.org/ecs189f-fall-2020/Projects/Promise/images/remix.png" alt="remix" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/wagmi.svg" alt="wagmi" width="45" height="45" style="margin-right: 10px"/>
+</p>
+
+<p align="left">
+  <!-- Row 3 - Development Tools & Databases -->
+  <img src="https://simpleicons.org/icons/git.svg" alt="git" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/github.svg" alt="github" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/postman.svg" alt="postman" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/socketdotio.svg" alt="socketio" width="45" height="45" style="margin-right: 10px"/>
+  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="45" height="45" style="margin-right: 10px"/>
+</p>
 
 </div>
 
 ---
 
-## 🏆 Achievement Board
-
-![Profile Views](https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=NaikVedhas&theme=radical&border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=NaikVedhas&show_icons=true&theme=radical" alt="github stats"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=radical" alt="top langs"/>
-</p>
+<!-- Stats Section -->
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://img.shields.io/github/commit-activity/y/NaikVedhas/NaikVedhas?style=for-the-badge&color=blueviolet&label=2023 CONTRIBUTIONS" alt="yearly contributions"/>
+</div>
 
 ---
 
 ## 🎤 Epic Speaking Quests
-
 ### 🎯 Recent Achievement Unlocked!
 - 💫 Led an epic session with **Blockchained India** co-founder
 - 🌟 Series: **"All Roads Lead to Bitcoin"**
@@ -55,7 +64,6 @@
 ---
 
 ## 🌐 Join My Quest
-
 <p align="center">
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
