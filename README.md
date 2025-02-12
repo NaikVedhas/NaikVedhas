@@ -11,7 +11,7 @@
 
   <!-- Tech Stack Section -->
   <h3>💻 Tech Stack</h3>
-  <p align="center">
+  <p align="left">
     <!-- Row 1 - Frontend & Main Technologies -->
    <img src="https://simpleicons.org/icons/react.svg" alt="react" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50" height="50" style="margin-right: 30px"/>
@@ -22,7 +22,7 @@
     <img src="https://simpleicons.org/icons/express.svg" alt="express" width="50" height="50" style="margin-right: 30px"/>
   </p>
 
-  <p align="center">
+  <p align="left">
     <!-- Row 2 - Blockchain & Web3 -->
     <img src="https://simpleicons.org/icons/solidity.svg" alt="solidity" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/ethers.svg" alt="ethers" width="50" height="50" style="margin-right: 30px"/>
@@ -32,7 +32,7 @@
     <img src="https://simpleicons.org/icons/wagmi.svg" alt="wagmi" width="50" height="50" style="margin-right: 30px"/>
   </p>
 
-  <p align="center">
+  <p align="left">
     <!-- Row 3 - Development Tools & Databases -->
     <img src="https://simpleicons.org/icons/git.svg" alt="git" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/github.svg" alt="github" width="50" height="50" style="margin-right: 30px"/>
@@ -43,6 +43,7 @@
     <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50" height="50" style="margin-right:30px"/>
   </p>
 
+<p align="right">Heyy</p>
   ---
 
 
