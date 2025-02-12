@@ -8,12 +8,10 @@
     <p>🔹 Love building scalable products & mentoring developers</p>
   </div>
 
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1100px;">
+  <!-- Container for Tech Stack and GitHub Stats, aligned horizontally -->
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 1100px;">
     <!-- Left Section: Tech Stack -->
-    <p align="right">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=transparent" alt="Top Languages" width="200"/>
-      </p>
-    <div align="left" style="flex: 1;">
+    <div style="flex: 1; padding-right: 20px;" align="left">
       <h3>💻 Tech Stack</h3>
       <p>
         <!-- Row 1 - Frontend & Main Technologies -->
@@ -25,6 +23,7 @@
         <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/express.svg" alt="express" width="50" height="50" style="margin-right: 30px"/>
       </p>
+
       <p>
         <!-- Row 2 - Blockchain & Web3 -->
         <img src="https://simpleicons.org/icons/solidity.svg" alt="solidity" width="50" height="50" style="margin-right: 30px"/>
@@ -34,6 +33,7 @@
         <img src="https://expolab.org/ecs189f-fall-2020/Projects/Promise/images/remix.png" alt="remix" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/wagmi.svg" alt="wagmi" width="50" height="50" style="margin-right: 30px"/>
       </p>
+
       <p>
         <!-- Row 3 - Development Tools & Databases -->
         <img src="https://simpleicons.org/icons/git.svg" alt="git" width="50" height="50" style="margin-right: 30px"/>
@@ -45,10 +45,11 @@
         <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50" height="50" style="margin-right:30px"/>
       </p>
     </div>
+
     <!-- Right Section: GitHub Stats (Most Used Languages) -->
-    <div align="center" style="flex: 1; padding-left: 20px;">
+    <div style="flex: 1; padding-left: 20px;" align="center">
       <h3>📊 GitHub Stats</h3>
-      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=transparent" alt="Top Languages" width="500"/>
     </div>
   </div>
 
