@@ -1,4 +1,8 @@
-# 👋 Hey, I'm Vedhas Naik!
+<div align="center">
+  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey, I'm Vedhas Naik!
+
+[![Profile Views](https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=flat-square)](https://github.com/NaikVedhas)
 
 🚀 Full-Stack Developer | Blockchain Enthusiast | Speaker
 
@@ -6,29 +10,48 @@
 
 🔹 Love building scalable products & mentoring developers
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaikVedhas)
+
+</div>
+
+<div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
 <div style="flex: 1;">
 
 ## 💻 Tech Stack
+<div align="center">
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535a0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/-Wagmi-2d3748?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Remix](https://img.shields.io/badge/-Remix_IDE-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+</div>
 </div>
 <div style="flex: 1;">
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)](https://github.com/YourGitHubUsername)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="Most Used Languages" />
 
 </div>
 </div>
@@ -37,10 +60,16 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaikVedhas&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+<div align="center">
 
 ## 🌐 Join My Quest
 
 ### 🔥 Turning Coffee into Code, One Commit at a Time ☕
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+the+Future+with+Blockchain;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+
+</div>
