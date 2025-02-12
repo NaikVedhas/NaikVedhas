@@ -1,13 +1,13 @@
 <div align="center">
   <!-- Header Section with Name, Tech Stack, Profile Views and GIF -->
   <h1>👋 Hey, I'm Vedhas Naik!</h1>
+  <div align="left">
+  <img src="https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
   <h3>🚀 Full-Stack Developer | Blockchain Enthusiast | Speaker</h3>
   <p>🔹 MERN Stack | Blockchain | Data Structures & Algorithms</p>
   <p>🔹 Love building scalable products & mentoring developers</p>
-
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
   </div>
+  
 
   <!-- Tech Stack Section -->
   <h3>💻 Tech Stack</h3>
