@@ -11,7 +11,7 @@
 ### 🏆 My GitHub Stats & Contributions  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VedhasNaik&color=blue&style=flat-square)  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=VedhasNaik&theme=radical)  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=NaikVedhas&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=radical)  
 
