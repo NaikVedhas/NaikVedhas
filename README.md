@@ -11,7 +11,7 @@
   <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1100px;">
     <!-- Left Section: Tech Stack -->
     <p align="right">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=transparent" alt="Top Languages" width="500"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=transparent" alt="Top Languages" width="200"/>
       </p>
     <div align="left" style="flex: 1;">
       <h3>💻 Tech Stack</h3>
