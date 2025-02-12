@@ -7,7 +7,7 @@
     <p>🔹 Love building scalable products & mentoring developers</p>
   </div>
 
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1100px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; ">
     <div style="flex: 1; padding-right: 20px;" align="left">
       <h3>💻 Tech Stack</h3>
       <p>
