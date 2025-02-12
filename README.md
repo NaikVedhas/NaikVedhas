@@ -6,7 +6,8 @@
 - 🔹 MERN Stack | Blockchain | Data Structures & Algorithms
 - 🔹 Love building scalable products & mentoring developers
 
-<!-- Tech Stack in Multiple Rows -->
+<!-- Tech Stack Section -->
+### 🛠️ Tech Stack
 <p align="left">
   <!-- Row 1 - Frontend & Main Technologies -->
   <img src="https://simpleicons.org/icons/react.svg" alt="react" width="45" height="45" style="margin-right: 10px"/>
@@ -46,7 +47,8 @@
 <!-- Stats Section -->
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-  <img src="https://img.shields.io/github/commit-activity/y/NaikVedhas/NaikVedhas?style=for-the-badge&color=blueviolet&label=2023 CONTRIBUTIONS" alt="yearly contributions"/>
+  <!-- Dynamic Contributions Range from today to 1 year back -->
+  <img src="https://img.shields.io/github/commit-activity/y/NaikVedhas/NaikVedhas?style=for-the-badge&color=blueviolet&label=CONTRIBUTIONS&range=year" alt="yearly contributions"/>
 </div>
 
 ---
@@ -81,5 +83,12 @@
 <p align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
 </p>
+
+---
+
+<!-- Right section with GIF -->
+<div align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFyZHB3a2c4amR0N2c4M2kwMXltYmw0bzQ0MWhrd3ZzNDl0MmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Coding GIF" width="300" height="300"/>
+</div>
 
 </div>
