@@ -10,6 +10,9 @@
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1100px;">
     <!-- Left Section: Tech Stack -->
+    <p align="right">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=transparent" alt="Top Languages" width="500"/>
+      </p>
     <div align="left" style="flex: 1;">
       <h3>💻 Tech Stack</h3>
       <p>
@@ -45,9 +48,7 @@
     <!-- Right Section: GitHub Stats (Most Used Languages) -->
     <div align="center" style="flex: 1; padding-left: 20px;">
       <h3>📊 GitHub Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=transparent" alt="Top Languages" width="500"/>
-      </p>
+      
     </div>
   </div>
 
