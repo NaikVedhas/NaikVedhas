@@ -13,9 +13,13 @@
   <h3>💻 Tech Stack</h3>
   <p align="center">
     <!-- Row 1 - Frontend & Main Technologies -->
-    <img src="https://simpleicons.org/icons/react.svg" alt="react" width="50" height="50" style="margin-right: 30px"/>
+   <img src="https://simpleicons.org/icons/react.svg" alt="react" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="tailwind" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/reactquery.svg" alt="reactquery" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/express.svg" alt="express" width="50" height="50" style="margin-right: 30px"/>
   </p>
 
   <p align="center">
@@ -23,6 +27,9 @@
     <img src="https://simpleicons.org/icons/solidity.svg" alt="solidity" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/ethers.svg" alt="ethers" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/web3dotjs.svg" alt="web3" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/ipfs.svg" alt="ipfs" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://expolab.org/ecs189f-fall-2020/Projects/Promise/images/remix.png" alt="remix" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/wagmi.svg" alt="wagmi" width="50" height="50" style="margin-right: 30px"/>
   </p>
 
   <p align="center">
@@ -30,9 +37,14 @@
     <img src="https://simpleicons.org/icons/git.svg" alt="git" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/github.svg" alt="github" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/postman.svg" alt="postman" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/socketdotio.svg" alt="socketio" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50" height="50" style="margin-right:30px"/>
   </p>
 
   ---
+
 
   <!-- GitHub Trophies Section -->
   <h3>🏆 GitHub Trophies</h3>
