@@ -2,18 +2,17 @@
   <!-- Header Section with Name, Tech Stack, Profile Views and GIF -->
   <h1>👋 Hey, I'm Vedhas Naik!</h1>
   <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-  <h3>🚀 Full-Stack Developer | Blockchain Enthusiast | Speaker</h3>
-  <p>🔹 MERN Stack | Blockchain | Data Structures & Algorithms</p>
-  <p>🔹 Love building scalable products & mentoring developers</p>
+    <img src="https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+    <h3>🚀 Full-Stack Developer | Blockchain Enthusiast | Speaker</h3>
+    <p>🔹 MERN Stack | Blockchain | Data Structures & Algorithms</p>
+    <p>🔹 Love building scalable products & mentoring developers</p>
   </div>
-  
 
   <!-- Tech Stack Section -->
-  <h3>💻 Tech Stack</h3>
   <p align="left">
+    <h3>💻 Tech Stack</h3>
     <!-- Row 1 - Frontend & Main Technologies -->
-   <img src="https://simpleicons.org/icons/react.svg" alt="react" width="50" height="50" style="margin-right: 30px"/>
+    <img src="https://simpleicons.org/icons/react.svg" alt="react" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="50" height="50" style="margin-right: 30px"/>
     <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="tailwind" width="50" height="50" style="margin-right: 30px"/>
@@ -43,14 +42,26 @@
     <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50" height="50" style="margin-right:30px"/>
   </p>
 
-<p align="right">Heyy</p>
   ---
-
 
   <!-- GitHub Trophies Section -->
   <h3>🏆 GitHub Trophies</h3>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=NaikVedhas&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="trophies"/>
+  </p>
+
+  ---
+
+  <!-- GitHub Stats Section -->
+  <h3 align="center">📊 GitHub Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NaikVedhas&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats" width="500"/>
+  </p>
+
+  <!-- GitHub Streak Section -->
+  <h3 align="center">🔥 GitHub Streak</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaikVedhas&theme=transparent" alt="GitHub Streak" width="500"/>
   </p>
 
   ---
