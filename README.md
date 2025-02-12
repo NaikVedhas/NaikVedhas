@@ -23,7 +23,6 @@
         <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/express.svg" alt="express" width="50" height="50" style="margin-right: 30px"/>
       </p>
-
       <p>
         <!-- Row 2 - Blockchain & Web3 -->
         <img src="https://simpleicons.org/icons/solidity.svg" alt="solidity" width="50" height="50" style="margin-right: 30px"/>
@@ -33,7 +32,6 @@
         <img src="https://expolab.org/ecs189f-fall-2020/Projects/Promise/images/remix.png" alt="remix" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/wagmi.svg" alt="wagmi" width="50" height="50" style="margin-right: 30px"/>
       </p>
-
       <p>
         <!-- Row 3 - Development Tools & Databases -->
         <img src="https://simpleicons.org/icons/git.svg" alt="git" width="50" height="50" style="margin-right: 30px"/>
@@ -45,7 +43,6 @@
         <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50" height="50" style="margin-right:30px"/>
       </p>
     </div>
-
     <!-- Right Section: GitHub Stats (Most Used Languages) -->
     <div style="flex: 1; padding-left: 20px;" align="center">
       <h3>📊 GitHub Stats</h3>
