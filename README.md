@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Header Section with Name, Tech Stack, Profile Views and GIF -->
   <h1>👋 Hey, I'm Vedhas Naik!</h1>
   <div align="left">
     <img src="https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
@@ -8,13 +7,10 @@
     <p>🔹 Love building scalable products & mentoring developers</p>
   </div>
 
-  <!-- Container for Tech Stack and GitHub Stats, aligned horizontally -->
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 1100px;">
-    <!-- Left Section: Tech Stack -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1100px;">
     <div style="flex: 1; padding-right: 20px;" align="left">
       <h3>💻 Tech Stack</h3>
       <p>
-        <!-- Row 1 - Frontend & Main Technologies -->
         <img src="https://simpleicons.org/icons/react.svg" alt="react" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="50" height="50" style="margin-right: 30px"/>
@@ -24,7 +20,6 @@
         <img src="https://simpleicons.org/icons/express.svg" alt="express" width="50" height="50" style="margin-right: 30px"/>
       </p>
       <p>
-        <!-- Row 2 - Blockchain & Web3 -->
         <img src="https://simpleicons.org/icons/solidity.svg" alt="solidity" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/ethers.svg" alt="ethers" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/web3dotjs.svg" alt="web3" width="50" height="50" style="margin-right: 30px"/>
@@ -33,7 +28,6 @@
         <img src="https://simpleicons.org/icons/wagmi.svg" alt="wagmi" width="50" height="50" style="margin-right: 30px"/>
       </p>
       <p>
-        <!-- Row 3 - Development Tools & Databases -->
         <img src="https://simpleicons.org/icons/git.svg" alt="git" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/github.svg" alt="github" width="50" height="50" style="margin-right: 30px"/>
         <img src="https://simpleicons.org/icons/postman.svg" alt="postman" width="50" height="50" style="margin-right: 30px"/>
@@ -43,16 +37,14 @@
         <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50" height="50" style="margin-right:30px"/>
       </p>
     </div>
-    <!-- Right Section: GitHub Stats (Most Used Languages) -->
     <div style="flex: 1; padding-left: 20px;" align="center">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=transparent" alt="Top Languages" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
     </div>
   </div>
 
   ---
 
-  <!-- GitHub Trophies Section -->
   <h3>🏆 GitHub Trophies</h3>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=NaikVedhas&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="trophies"/>
