@@ -1,74 +1,46 @@
-<div align="center">
-  <h1>👋 Hey, I'm Vedhas Naik!</h1>
-  <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=NaikVedhas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-    <h3>🚀 Full-Stack Developer | Blockchain Enthusiast | Speaker</h3>
-    <p>🔹 MERN Stack | Blockchain | Data Structures & Algorithms</p>
-    <p>🔹 Love building scalable products & mentoring developers</p>
-  </div>
+# 👋 Hey, I'm Vedhas Naik!
 
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; ">
-    <div style="flex: 1; padding-right: 20px;" align="left">
-      <h3>💻 Tech Stack</h3>
-      <p>
-        <img src="https://simpleicons.org/icons/react.svg" alt="react" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="tailwind" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/reactquery.svg" alt="reactquery" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/express.svg" alt="express" width="50" height="50" style="margin-right: 30px"/>
-      </p>
-      <p>
-        <img src="https://simpleicons.org/icons/solidity.svg" alt="solidity" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/ethers.svg" alt="ethers" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/web3dotjs.svg" alt="web3" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/ipfs.svg" alt="ipfs" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://expolab.org/ecs189f-fall-2020/Projects/Promise/images/remix.png" alt="remix" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/wagmi.svg" alt="wagmi" width="50" height="50" style="margin-right: 30px"/>
-      </p>
-      <p>
-        <img src="https://simpleicons.org/icons/git.svg" alt="git" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/github.svg" alt="github" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/postman.svg" alt="postman" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/socketdotio.svg" alt="socketio" width="50" height="50" style="margin-right: 30px"/>
-        <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50" height="50" style="margin-right:30px"/>
-      </p>
-    </div>
-    <div style="flex: 1; padding-left: 20px;" align="center">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
-    </div>
-  </div>
+🚀 Full-Stack Developer | Blockchain Enthusiast | Speaker
 
-  ---
+🔹 MERN Stack | Blockchain | Data Structures & Algorithms
 
-  <h3>🏆 GitHub Trophies</h3>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=NaikVedhas&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="trophies"/>
-  </p>
+🔹 Love building scalable products & mentoring developers
 
-  ---
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="flex: 1;">
 
-  ## 🌐 Join My Quest
-  <p align="center">
-    <a href="https://linkedin.com/in/your-profile">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/your-profile">
-      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://github.com/NaikVedhas">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
+## 💻 Tech Stack
 
-  ### 🔥 Turning Coffee into Code, One Commit at a Time ☕
-
-  <p align="center">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
-  </p>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 </div>
+<div style="flex: 1;">
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)](https://github.com/YourGitHubUsername)
+
+</div>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🌐 Join My Quest
+
+### 🔥 Turning Coffee into Code, One Commit at a Time ☕
