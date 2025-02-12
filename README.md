@@ -1,10 +1,14 @@
 ### Hey there, I'm Vedhas Naik! 👋🚀  
 
-![Cool Programmer Image](https://i.pinimg.com/736x/17/f0/22/17f022aa9c15c3299ea1804226a8478c.jpg)  
+<div align="left">
+  💻 **Full-Stack Developer | Blockchain Enthusiast | Speaker** 🎤  
+  🔹 MERN Stack | Blockchain | Data Structures & Algorithms  
+  🔹 Love building scalable products & mentoring developers  
+</div>
 
-💻 **Full-Stack Developer | Blockchain Enthusiast | Speaker** 🎤  
-🔹 MERN Stack | Blockchain | Data Structures & Algorithms  
-🔹 Love building scalable products & mentoring developers  
+<div align="right">
+  ![Cool Programmer Image](https://i.pinimg.com/736x/17/f0/22/17f022aa9c15c3299ea1804226a8478c.jpg)
+</div>
 
 ---
 
