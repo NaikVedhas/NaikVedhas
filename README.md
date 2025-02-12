@@ -3,7 +3,7 @@
 ![Cool Programmer Image](https://source.unsplash.com/featured/?coding,technology)  
 
 💻 **Full-Stack Developer | Blockchain Enthusiast | Speaker** 🎤  
-🔹 MERN Stack | Solidity | Data Structures & Algorithms  
+🔹 MERN Stack | Blockchain | Data Structures & Algorithms  
 🔹 Love building scalable products & mentoring developers  
 
 ---
