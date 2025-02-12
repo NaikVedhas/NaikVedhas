@@ -10,7 +10,9 @@
 <div style="display: flex;">
   <div width="60%">
     <!-- Tech Stack -->
-    <p align="left">
+    <p align="left"> 
+    ![React](https://simpleicons.org/icons/react.svg)  
+    <p/>
       
   <div width="40%" align="right">
     <img align="right" src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" alt="coding" width="300"/>
