@@ -2,14 +2,12 @@
   <div align="left">
     
   <!-- Header with Name, Tech Stack, and GIF -->
-  <h1>👋 Hey, I'm Vedhas Naik! 
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFyZHB3a2c4amR0N2c4M2kwMXltYmw0bzQ0MWhrd3ZzNDl0MmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="45" height="45" style="vertical-align: middle; margin-left: 15px;"/>
-  </h1>
+  <h1>👋 Hey, I'm Vedhas Naik!</h1>
 
   <h3>🚀 Full-Stack Developer | Blockchain Enthusiast | Speaker</h3>
   <p>🔹 MERN Stack | Blockchain | Data Structures & Algorithms</p>
   <p>🔹 Love building scalable products & mentoring developers</p>
-
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFyZHB3a2c4amR0N2c4M2kwMXltYmw0bzQ0MWhrd3ZzNDl0MmF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="45" height="45" style="vertical-align: middle; margin-left: 15px;"/>
   <!-- Tech Stack Section -->
   <h3>💻 Tech Stack</h3>
   <p align="left">
