@@ -1,22 +1,47 @@
-# Hi there, I'm Vedhas Naik! 👋  
+### Hey there, I'm Vedhas Naik! 👋🚀  
 
-🚀 Passionate about software development, blockchain, and solving real-world problems.  
-💡 Always exploring new technologies and building cool projects.  
-🎤 Delivered a speaker session with the co-founder of Blockchained India.  
+![Cool Programmer Image](https://source.unsplash.com/featured/?coding,technology)  
 
-## 🔧 Technologies I Work With:
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Blockchain:** Solidity, Web3.js, Wagmi  
-- **Other:** Data Structures & Algorithms, Socket.io  
+💻 **Full-Stack Developer | Blockchain Enthusiast | Speaker** 🎤  
+🔹 MERN Stack | Solidity | Data Structures & Algorithms  
+🔹 Love building scalable products & mentoring developers  
 
-## 📌 Projects:
-- [LinkedIn Clone](https://github.com/your-repo) - Built a scalable LinkedIn-like platform with messaging, authentication, and more.  
-- [Crypto Price Predictor](https://github.com/your-repo) - Predicts memecoin bumps and dumps using Chainlink Oracle data.  
+---
 
-## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Twitter](https://twitter.com/your-profile)  
+### 🏆 My GitHub Stats & Contributions  
 
-✨ *Always open to new opportunities & collaborations!* ✨  
+![Profile Views](https://komarev.com/ghpvc/?username=VedhasNaik&color=blue&style=flat-square)  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=VedhasNaik&theme=radical)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedhasNaik&layout=compact&theme=radical)  
+
+---
+
+### 🎤 Speaker Sessions  
+💡 Took a **speaker session** with the co-founder of *Blockchained India* under the series **All Roads Lead to Bitcoin**  
+📢 Passionate about **mentoring** and sharing knowledge in blockchain & software dev  
+
+---
+
+### 🚀 My Tech Stack  
+
+**Frontend:** React, Tailwind CSS, Next.js  
+**Backend:** Node.js, Express.js, MongoDB, Socket.io  
+**Blockchain:** Solidity, Wagmi, Web3.js, IPFS  
+**Other:** Git, JWT, Cloud Deployment  
+
+---
+
+### 🎮 Fun Facts & More  
+🕹️ Love building **gamified experiences** & solving real-world problems  
+💬 Always open to discussions about **tech, startups & Web3**  
+⚡ Looking for **internship opportunities** in **SDE & Blockchain**!  
+
+---
+
+### 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedhasNaik)  
+
+🔥 *Building. Learning. Growing.* 🔥
