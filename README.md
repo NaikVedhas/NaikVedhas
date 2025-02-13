@@ -28,9 +28,11 @@
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535a0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/-Wagmi-2d3748?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
@@ -52,7 +54,7 @@
 
 ## 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=88C0D0" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=Jupyter%20Notebook" alt="Most Used Languages" />
 
 </div>
 </div>
@@ -62,3 +64,5 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaikVedhas&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
