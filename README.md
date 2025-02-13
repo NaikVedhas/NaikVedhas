@@ -8,8 +8,6 @@
 
 🚀 Full-Stack Developer | Blockchain Enthusiast | Speaker
 
-🔹 MERN Stack | Blockchain | Data Structures & Algorithms
-
 🔹 Love building scalable products & mentoring developers
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -44,11 +42,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Remix](https://img.shields.io/badge/-Remix_IDE-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 </div>
@@ -66,13 +62,3 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaikVedhas&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-<div align="center">
-
-## 🌐 Join My Quest
-
-### 🔥 Turning Coffee into Code, One Commit at a Time ☕
-
-</div>
