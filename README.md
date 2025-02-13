@@ -12,16 +12,13 @@
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedhas-naik-005378253/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedhas-naik-005378253/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedhasnaik121@gmail.com)
-
 
 </div>
 
-<div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
-<div style="flex: 1;">
-
 ## 💻 Tech Stack
+
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -49,14 +46,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-</div>
-<div style="flex: 1;">
 
 ## 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=Jupyter%20Notebook" alt="Most Used Languages" />
-
-</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikVedhas&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=Jupyter%20Notebook&card_width=445" alt="Most Used Languages" />
 </div>
 
 ---
