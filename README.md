@@ -12,7 +12,7 @@
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   
-<a href="https://vedhasnaik.vercel.app" target="_blank" rel="noopener noreferrer">
+<a href="https://buildwithvedhas.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/vedhas-naik-005378253/" target="_blank" rel="noopener noreferrer">
